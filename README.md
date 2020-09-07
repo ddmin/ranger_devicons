@@ -1,4 +1,6 @@
-# Fork of Ranger Devicons where I changed 1 icon.
+# Fork of Ranger Devicons where I changed 2 icon.
+Code  : 
+School: 
 
 # File icons for the Ranger file manager
 

@@ -183,6 +183,7 @@ dir_node_exact_matches = {
     'Music'                            : '',
     'Pictures'                         : '',
     'Public'                           : '',
+    'School'                           : '',
     'Templates'                        : '',
     'Videos'                           : '',
     'VirtualBox VMs'                   : '',
