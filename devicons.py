@@ -173,7 +173,7 @@ file_node_extensions = {
 dir_node_exact_matches = {
 # English
     '.git'                             : '',
-    '.VirtualBox VMs'                  : '',
+    '.VirtualBox VMs'                  : '',
     'Code'                             : '',
     'Desktop'                          : '',
     'Documents'                        : '',
@@ -186,7 +186,7 @@ dir_node_exact_matches = {
     'School'                           : '',
     'Templates'                        : '',
     'Videos'                           : '',
-    'VirtualBox VMs'                   : '',
+    'VirtualBox VMs'                   : '',
 # Spanish
     'Escritorio'                       : '',
     'Documentos'                       : '',
