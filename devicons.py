@@ -114,7 +114,7 @@ file_node_extensions = {
     'mpg'      : '',
     'msi'      : '',
     'mustache' : '',
-    'note'     : '',
+    'note'     : '',
     'o'        : '',
     'ogg'      : '',
     'pdf'      : '',
